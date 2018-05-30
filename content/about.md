@@ -1,7 +1,7 @@
-+++
-date = "2018-05-30"
-title = "About"
-+++
+---
+date: "2018-05-30"
+title: "About"
+---
 
 
 Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
