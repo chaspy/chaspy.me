@@ -2,3 +2,7 @@
 img {
   border-radius: 50%;
 }
+div.header .container .logo {
+  margin-left: 0em;
+  margin-right: 2em;
+}
