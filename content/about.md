@@ -20,9 +20,18 @@ Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
 - GCP
 
 ### Career
-* Apl,2014 Software Enginner at [Fujitsu](http://www.fujitsu.com/jp/)
-  * Public Cloud IaaS K5
-  * ServerView Resource Orchestrator
+#### Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜)
+* Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.quipper.com)
+  * 
+
+#### Software Engineer at [Fujitsu](http://www.fujitsu.com/jp/) (Apl,2014 - Jun,2018)
+* [Public Cloud IaaS K5](https://jp.fujitsu.com/solutions/cloud/k5/)
+  * Bug fix and failure handling of IaaS configured with [OpenStack](https://www.openstack.org/) (Nova, Cinder, Glance, Keystone, and Heat)
+  * Tool development for deploying without downtime ([Capistrano](https://capistranorb.com/))
+  * Introduction and Enlightenment of CI/CD ([GitLab-ci](https://docs.gitlab.com/ee/ci/) and [OpenStack/Tempest](https://github.com/openstack/tempest)))
+* [ServerView Resource Orchestrator](https://www.fujitsu.com/jp/products/software/infrastructure-software/infrastructure-software/ror/)
+  * Resource Orchestrator is IaaS management software from Ruby on Rails
+  * Enhance a new feature and Bug Fix
 
 ### Education
 * Mar,2014 Master of Engineering in Information Technology
