@@ -12,6 +12,8 @@ Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
 - Terraform
 - Ansible
 - Nginx
+- MySQL
+- PostgreSQL
 - Ruby, Ruby on Rails
 - Python, Django, Flask
 - Golang
