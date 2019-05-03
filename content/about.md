@@ -22,7 +22,9 @@ Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
 ### Career
 #### Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜)
 * Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.quipper.com)
-  * 
+  * Manage Cloud Infrastructure with Code (Kubernetes manifest, Terraform DSL, Ansible Playbook, Nginx configuration, and CircleCI)
+  * Build a standalized system for Microservices (Readiness Check, Introduce SLO, Make deploying RDS self-serviced)
+  * Improve site performance with Nginx Cache or CDN
 
 #### Software Engineer at [Fujitsu](http://www.fujitsu.com/jp/) (Apl,2014 - Jun,2018)
 * [Public Cloud IaaS K5](https://jp.fujitsu.com/solutions/cloud/k5/)
