@@ -7,6 +7,18 @@ draft: false
 
 Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
 
+### Skills
+- Kubernetes
+- Terraform
+- Ansible
+- Nginx
+- Ruby, Ruby on Rails
+- Python, Django, Flask
+- Golang
+- Bash
+- AWS
+- GCP
+
 ### Career
 * Apl,2014 Software Enginner at [Fujitsu](http://www.fujitsu.com/jp/)
   * Public Cloud IaaS K5
