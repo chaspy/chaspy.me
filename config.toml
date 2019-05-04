@@ -38,7 +38,7 @@ social_banner = "img/banner.png"
 usesmallsummarycard = true
 #posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
-# githubRepo = "githubUsername/repositoryName/tree/master"
+githubRepo = "chaspy/chaspy.me/tree/master"
 small_banner_logo = false
 extracssfiles = [ "/css/override.css" ]
 
