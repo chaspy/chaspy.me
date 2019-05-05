@@ -3,15 +3,18 @@ title: "Blog"
 draft: false
 ---
 
-### Hatena Blog (Japanese)
+## Hatena Blog (Japanese)
 [ツナワタリマイライフ](https://blog.chaspy.me)
 
-### Quipper Product Team Blog (Japanese)
+
+## Quipper Product Team Blog (Japanese)
 - [オンボーディングのはじめかた](https://quipper.hatenablog.com/entry/2019/03/25/sre-onboarding)
 - [新入社員から見たQuipperで働く環境](https://quipper.hatenablog.com/entry/2018/08/06/joiner-meets-quipper)
 
-### Qiita (Japanese)
+
+## Qiita (Japanese)
 [chaspy](https://qiita.com/chaspy)
 
-### Medium (English)
+
+## Medium (English)
 [chaspy](https://medium.com/@chaspy)
