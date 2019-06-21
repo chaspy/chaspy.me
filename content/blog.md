@@ -8,6 +8,7 @@ draft: false
 
 
 ## Quipper Product Team Blog (Japanese)
+- [英語でのプレゼンをやりきるたった1つのコツ](https://quipper.hatenablog.com/entry/2019/06/21/080000)
 - [Production Readiness Check のはじめかた](https://quipper.hatenablog.com/entry/2019/06/07/080000)
 - [オンボーディングのはじめかた](https://quipper.hatenablog.com/entry/2019/03/25/sre-onboarding)
 - [新入社員から見たQuipperで働く環境](https://quipper.hatenablog.com/entry/2018/08/06/joiner-meets-quipper)
