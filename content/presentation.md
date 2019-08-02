@@ -8,6 +8,7 @@ draft: false
 
 
 ## Meetup
+* [Terraform meetup tokyo#1](https://terraform-jp.connpass.com/event/137865/) - [How to contribute to terraform-provider-aws](https://speakerdeck.com/chaspy/how-to-contribute-to-terraform-provider-aws)
 * [ゴリラ.vim #2](https://gorillavim.connpass.com/event/121394/) - [速度.vim](https://speakerdeck.com/chaspy/sokudo-dot-vim)
 * [SRE Lounge #6](https://sre-lounge.connpass.com/event/108054/) - [Reading "The Site Reliability Workbook"](https://speakerdeck.com/chaspy/reading-the-site-reliability-workbook)
 * [Meguro.rb #19](https://megurorb.connpass.com/event/100401/) - [H2O vs Nginx](https://speakerdeck.com/chaspy/h2o-vs-nginx)
