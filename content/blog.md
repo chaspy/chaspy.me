@@ -8,6 +8,7 @@ draft: false
 
 
 ## Quipper Product Team Blog (Japanese)
+- [負荷試験との向き合い方](https://quipper.hatenablog.com/entry/2019/09/26/080000)
 - [英語でのプレゼンをやりきるたった1つのコツ](https://quipper.hatenablog.com/entry/2019/06/21/080000)
 - [Production Readiness Check のはじめかた](https://quipper.hatenablog.com/entry/2019/06/07/080000)
 - [オンボーディングのはじめかた](https://quipper.hatenablog.com/entry/2019/03/25/sre-onboarding)
