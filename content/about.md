@@ -3,11 +3,10 @@ title: "About"
 draft: false
 ---
 
-
 Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
 
-
 ## Skills
+
 - Kubernetes
 - Terraform
 - Ansible
@@ -21,17 +20,17 @@ Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
 - AWS
 - GCP
 
-
 ## Career
 
 ### Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜)
+
 * Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.quipper.com)
   * Manage Cloud Infrastructure with Code (Kubernetes manifest, Terraform DSL, Ansible Playbook, Nginx configuration, and CircleCI)
   * Build a standalized system for Microservices (Readiness Check, SLO, RDS self-service, Define service owner)
   * Improve site performance with Nginx Cache or CDN
 
-
 ### Software Engineer at [Fujitsu](http://www.fujitsu.com/jp/) (Apl,2014 - Jun,2018)
+
 * [Public Cloud IaaS K5](https://jp.fujitsu.com/solutions/cloud/k5/)
   * Bug fix and failure handling of IaaS configured with [OpenStack](https://www.openstack.org/) (Nova, Cinder, Glance, Keystone, and Heat)
   * Tool development for deploying without downtime ([Capistrano](https://capistranorb.com/))
@@ -40,10 +39,9 @@ Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
   * Resource Orchestrator is IaaS management software from Ruby on Rails
   * Enhance a new feature and Bug Fix
 
-
 ## Education
+
 * Mar,2014 Master of Engineering in Information Technology
   * [Kyushu Institute of Technology](http://www.kyutech.ac.jp/)
   * [Estimation of Betweenness Centrality in terms of Links for Inferring Network Performance](https://ci.nii.ac.jp/naid/110009861196/)
-
 
