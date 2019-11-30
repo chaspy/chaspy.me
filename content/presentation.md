@@ -4,6 +4,8 @@ draft: false
 ---
 
 ## Conference
+* [SRE NEXT 2020](https://sre-next.dev/) - SLO Review
+* [July Tech Festa 2019](https://2019.techfesta.jp/) - オンボーディングのひろげかた
 * [SREcon19 Asia/Pacific](https://www.usenix.org/conference/srecon19asia) at Singapore - [How to Start On-Boarding of SRE](https://www.usenix.org/conference/srecon19asia/presentation/kondo)
 
 
