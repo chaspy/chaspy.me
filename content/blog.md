@@ -8,6 +8,7 @@ draft: false
 
 
 ## Quipper Product Team Blog (Japanese)
+- [Business Trip for Global Team](https://quipper.hatenablog.com/entry/2020/01/21/sre-business-trip)
 - [障害対応とポストモーテム](https://quipper.hatenablog.com/entry/2019/11/27/080000/incident-response-and-postmortem)
 - [負荷試験との向き合い方](https://quipper.hatenablog.com/entry/2019/09/26/080000)
 - [英語でのプレゼンをやりきるたった1つのコツ](https://quipper.hatenablog.com/entry/2019/06/21/080000)
