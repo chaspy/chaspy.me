@@ -5,6 +5,7 @@ draft: false
 
 ## Conference
 ### 2020
+* [DevOpsDays Tokyo 2020](https://www.devopsdaystokyo.org/) - [How to Measure the Reliability](https://confengine.com/devopsdays-tokyo-2020/proposal/14080/how-to-measure-the-reliability)
 * [SRE NEXT 2020](https://sre-next.dev/) - [SLO Review](https://speakerdeck.com/chaspy/slo-review)
 
 ### 2019
