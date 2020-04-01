@@ -8,6 +8,7 @@ draft: false
 
 
 ## Quipper Product Team Blog (Japanese)
+- [みんなでつくる Production Readiness](https://quipper.hatenablog.com/entry/2020/01/30/production-readiness-with-all)
 - [SRE NEXT 2020 で「SLO Review」というタイトルで登壇しました #srenext](https://quipper.hatenablog.com/entry/2020/01/30/slo-review)
 - [Business Trip for Global Team](https://quipper.hatenablog.com/entry/2020/01/21/sre-business-trip)
 - [障害対応とポストモーテム](https://quipper.hatenablog.com/entry/2019/11/27/080000/incident-response-and-postmortem)
