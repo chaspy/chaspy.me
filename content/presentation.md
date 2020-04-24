@@ -14,6 +14,9 @@ draft: false
 
 
 ## Meetup
+### 2020
+* [Infra Study Meetup #1「Infrastructure as Code」](https://forkwell.connpass.com/event/171560/) - [Patterns In Infrastructure as Code](https://speakerdeck.com/chaspy/patterns-in-infrastructure-as-code)
+
 ### 2019
 * [Terraform meetup tokyo#3](https://terraform-jp.connpass.com/event/153286/) - [突撃！隣のTerraform](https://speakerdeck.com/chaspy/visit-the-next-terraform)
 * [SRE Lounge#10](https://sre-lounge.connpass.com/event/139832/) - [SRECon19 AsiaPacific Recap](https://speakerdeck.com/chaspy/srecon19-asiapacific-recap)
