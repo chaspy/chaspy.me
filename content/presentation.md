@@ -15,6 +15,7 @@ draft: false
 
 ## Meetup
 ### 2020
+* [SRE Lounge #12](https://sre-lounge.connpass.com/event/175323/) - [Alerting Strategy for Self-Contained Team](https://speakerdeck.com/chaspy/alerting-strategy-for-self-contained-team)
 * [Infra Study Meetup #1「Infrastructure as Code」](https://forkwell.connpass.com/event/171560/) - [Patterns In Infrastructure as Code](https://speakerdeck.com/chaspy/patterns-in-infrastructure-as-code)
 
 ### 2019
