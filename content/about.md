@@ -40,6 +40,7 @@ Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
 ### Software Engineer at [Fujitsu](http://www.fujitsu.com/jp/) (Apl,2014 - Jun,2018)
 
 * [Public Cloud IaaS K5](https://jp.fujitsu.com/solutions/cloud/k5/)
+  * Upgrade [MariaDB Garela Cluster](https://mariadb.com/kb/en/galera-cluster/) without a long downtime
   * Bug fix and failure handling of IaaS configured with [OpenStack](https://www.openstack.org/) (Nova, Cinder, Glance, Keystone, and Heat)
   * Tool development for deploying without downtime ([Capistrano](https://capistranorb.com/))
   * Introduction and Enlightenment of CI/CD ([GitLab-ci](https://docs.gitlab.com/ee/ci/) and [OpenStack/Tempest](https://github.com/openstack/tempest)))
