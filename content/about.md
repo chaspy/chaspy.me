@@ -3,7 +3,7 @@ title: "About"
 draft: false
 ---
 
-Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
+Lead Software Engineer, Site Reliability Engineering at [Quipper](http://www.quipper.com) (Jul,2018〜).
 
 ## Skills
 
@@ -21,6 +21,13 @@ Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
 - GCP
 
 ## Career
+
+### Lead Sodtware Engineer, Site Reliabiltiy Engineering at [Quipper](http://www.quipper.com) (Jun,2020〜)
+* Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.qui    pper.com)
+  * Lead whole SRE Team
+  * Define an alert policy and implement it in the service team
+  * Introduce Progressive Delivery
+  * Migrate application platform to AWS EKS
 
 ### Software Engineer, Site Reliability Engineering for Global Product at [Quipper](http://www.quipper.com) (Oct,2019〜)
 
