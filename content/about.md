@@ -22,7 +22,7 @@ Site Reliability Engineer at [Quipper](http://www.quipper.com) (Jul,2018〜).
 
 ## Career
 
-### Software Engineer, Site Reliability Engineer for Global Product at [Quipper](http://www.quipper.com) (Oct,2019〜)
+### Software Engineer, Site Reliability Engineering for Global Product at [Quipper](http://www.quipper.com) (Oct,2019〜)
 
 * Responsible of site reliability for [quipper.com](https://www.quipper.com)
   * Build an SLO review culture for all product teams. Implemented the required SLI.
