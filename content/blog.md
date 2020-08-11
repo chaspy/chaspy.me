@@ -8,6 +8,7 @@ draft: false
 
 
 ## Quipper Product Team Blog (Japanese)
+- [Self-Hosted Cluster から EKS への移行と Platform の Production Readiness](https://quipper.hatenablog.com/entry/2020/08/11/migration-to-eks)
 - [Kubernetes Horizontal Pod Autoscaler による信頼性向上](https://quipper.hatenablog.com/entry/2020/04/10/hpa)
 - [RDS のセルフサービス化のための自動化の工夫](https://quipper.hatenablog.com/entry/2020/04/07/080000)
 - [みんなでつくる Production Readiness](https://quipper.hatenablog.com/entry/2020/01/30/production-readiness-with-all)
