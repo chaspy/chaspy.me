@@ -8,6 +8,7 @@ draft: false
 
 
 ## Quipper Product Team Blog (Japanese)
+- [褒めるラジオ quipper.fm](https://quipper.hatenablog.com/entry/2020/08/17/quipper-fm)
 - [Self-Hosted Cluster から EKS への移行と Platform の Production Readiness](https://quipper.hatenablog.com/entry/2020/08/11/migration-to-eks)
 - [Kubernetes Horizontal Pod Autoscaler による信頼性向上](https://quipper.hatenablog.com/entry/2020/04/10/hpa)
 - [RDS のセルフサービス化のための自動化の工夫](https://quipper.hatenablog.com/entry/2020/04/07/080000)
