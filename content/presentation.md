@@ -4,6 +4,7 @@ draft: false
 ---
 
 ## 2020
+* [Japan Datadog User Group Meetup#1](https://datadog-jp.connpass.com/event/185920/) - [Alert Handling with Datadog Incident Management](https://speakerdeck.com/chaspy/alert-handling-with-datadog-incident-management)
 * [SRE Lounge #12](https://sre-lounge.connpass.com/event/175323/) - [Alerting Strategy for Self-Contained Team](https://speakerdeck.com/chaspy/alerting-strategy-for-self-contained-team)
 * [Infra Study Meetup #1「Infrastructure as Code」](https://forkwell.connpass.com/event/171560/) - [Patterns In Infrastructure as Code](https://speakerdeck.com/chaspy/patterns-in-infrastructure-as-code)
 * [DevOpsDays Tokyo 2020](https://www.devopsdaystokyo.org/) - [How to Measure the Reliability](https://confengine.com/devopsdays-tokyo-2020/proposal/14080/how-to-measure-the-reliability) (Canceled)
