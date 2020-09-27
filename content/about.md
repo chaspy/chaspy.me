@@ -5,7 +5,7 @@ draft: false
 
 Lead Software Engineer, Site Reliability Engineering at [Quipper](http://www.quipper.com) (Jul,2018〜).
 
-## Skills
+# Skills
 
 - Kubernetes
 - Terraform
@@ -20,31 +20,34 @@ Lead Software Engineer, Site Reliability Engineering at [Quipper](http://www.qui
 - AWS
 - GCP
 
-## Career
+# Career
 
-### Lead Sodtware Engineer, Site Reliabiltiy Engineering at [Quipper](http://www.quipper.com) (Jun,2020〜)
+## [Quipper Limited](http://www.quipper.com) (Jun,2018〜)
+
+### Lead Sodtware Engineer, Site Reliabiltiy Engineering (Jun,2020〜)
 * Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.qui    pper.com)
   * Lead whole SRE Team
   * Define an alert policy and implement it in the service team
   * Introduce Progressive Delivery
   * Migrate application platform to AWS EKS
 
-### Software Engineer, Site Reliability Engineering for Global Product at [Quipper](http://www.quipper.com) (Oct,2019〜)
+### Software Engineer, Site Reliability Engineering for Global Product (Oct,2019〜)
 
 * Responsible of site reliability for [quipper.com](https://www.quipper.com)
   * Build an SLO review culture for all product teams. Implemented the required SLI.
   * Re-architecting Reverse Proxy by using NLB
   * Improve Curcuit Breaker by introducing Envoy proxy
 
-
-### Software Engineer, Site Reliability Engineering at [Quipper](http://www.quipper.com) (Jul,2018〜)
+### Software Engineer, Site Reliability Engineering (Jul,2018〜)
 
 * Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.quipper.com)
   * Manage Cloud Infrastructure with Code (Kubernetes manifest, Terraform DSL, Ansible Playbook, Nginx configuration, and CircleCI)
   * Build a standalized system for Microservices (Readiness Check, SLO, RDS self-service, Define service owner)
   * Improve site performance with Nginx Cache or CDN
 
-### Software Engineer at [Fujitsu](http://www.fujitsu.com/jp/) (Apl,2014 - Jun,2018)
+## [Fujitsu Limited](http://www.fujitsu.com/jp/) (Apl,2014 - Jun,2018)
+
+### Software Engineer
 
 * [Public Cloud IaaS K5](https://jp.fujitsu.com/solutions/cloud/k5/)
   * Upgrade [MariaDB Garela Cluster](https://mariadb.com/kb/en/galera-cluster/) without a long downtime
@@ -55,13 +58,13 @@ Lead Software Engineer, Site Reliability Engineering at [Quipper](http://www.qui
   * Resource Orchestrator is IaaS management software from Ruby on Rails
   * Enhance a new feature and Bug Fix
 
-## Education
+# Education
 
 * Mar,2014 Master of Engineering in Information Technology
   * [Kyushu Institute of Technology](http://www.kyutech.ac.jp/)
   * [Estimation of Betweenness Centrality in terms of Links for Inferring Network Performance](https://ci.nii.ac.jp/naid/110009861196/)
 
-## Certification
+# Certification
 
 - 2020 Apl. [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate/)
 - 2020 Jan. [Site Reliability Engineering: Measuring and Managing Reliability](https://coursera.org/share/a5c7b848a3d2bbdbca851afeb1a77783)
