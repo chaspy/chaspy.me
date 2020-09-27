@@ -5,21 +5,6 @@ draft: false
 
 Lead Software Engineer, Site Reliability Engineering at [Quipper](http://www.quipper.com) (Jul,2018〜).
 
-# Skills
-
-- Kubernetes
-- Terraform
-- Ansible
-- Nginx
-- MySQL
-- PostgreSQL
-- Ruby, Ruby on Rails
-- Python, Django, Flask
-- Golang
-- Bash
-- AWS
-- GCP
-
 # Career
 
 ## [Quipper Limited](http://www.quipper.com) (Jun,2018〜)
