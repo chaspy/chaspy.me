@@ -19,7 +19,7 @@ I can communicate and discuss in English. As an SRE, I have introduced new techn
 
 ## [Quipper Limited](http://www.quipper.com) (Jun,2018〜)
 
-### Lead Sodtware Engineer, Site Reliabiltiy Engineering (Jun,2020〜)
+### Lead Software Engineer, Site Reliabiltiy Engineering (Jun,2020〜)
 * Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.qui    pper.com)
   * Lead SRE Team / Project
   * Define an alert policy and implement it in the service team
