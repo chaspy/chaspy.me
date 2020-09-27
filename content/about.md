@@ -21,21 +21,16 @@ I can communicate and discuss in English. As an SRE, I have introduced new techn
 
 ### Lead Sodtware Engineer, Site Reliabiltiy Engineering (Jun,2020〜)
 * Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.qui    pper.com)
-  * Lead whole SRE Team
+  * Lead SRE Team / Project
   * Define an alert policy and implement it in the service team
   * Introduce Progressive Delivery
   * Migrate application platform to AWS EKS
 
-### Software Engineer, Site Reliability Engineering for Global Product (Oct,2019〜)
+### Software Engineer, Site Reliability Engineering for Global Product (Jun,2018 ~ Jun,2020)
 
 * Responsible of site reliability for [quipper.com](https://www.quipper.com)
-  * Build an SLO review culture for all product teams. Implemented the required SLI.
-  * Re-architecting Reverse Proxy by using NLB
+  * Build an SLO review culture for all product teams.
   * Improve Curcuit Breaker by introducing Envoy proxy
-
-### Software Engineer, Site Reliability Engineering (Jul,2018〜)
-
-* Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.quipper.com)
   * Manage Cloud Infrastructure with Code (Kubernetes manifest, Terraform DSL, Ansible Playbook, Nginx configuration, and CircleCI)
   * Build a standalized system for Microservices (Readiness Check, SLO, RDS self-service, Define service owner)
   * Improve site performance with Nginx Cache or CDN
