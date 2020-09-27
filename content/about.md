@@ -5,6 +5,16 @@ draft: false
 
 Lead Software Engineer, Site Reliability Engineering at [Quipper](http://www.quipper.com) (Jul,2018〜).
 
+I have 6 years of experience as a software engineer. Of that, I have 2 years of experience as a Site Reliability Engineer.
+
+I'm good at implementing the necessary technologies and processes for organizations. Most recently, I introduced a major theme, SLI/SLO, to both Japan and global products and promoted it to a situation where developers can handle it themselves.
+
+As a team and project lead, I can find a problem correctly and take the team forward through communication and facilitation.
+
+I completed technical projects with a high degree of uncertainty and impact, such as migrating a Kubernetes Cluster from self-hosted to EKS and OS upgrades for Reverse Proxy.
+
+I can communicate and discuss in English. As an SRE, I have introduced new technologies and processes to global product teams and supported their development productivity.
+
 # Career
 
 ## [Quipper Limited](http://www.quipper.com) (Jun,2018〜)
