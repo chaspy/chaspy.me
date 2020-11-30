@@ -9,6 +9,7 @@ draft: false
 
 ## Quipper Product Team Blog (Japanese)
 
+- [Kubernetes HPA External Metrics を利用した Scheduled-Scaling](https://quipper.hatenablog.com/entry/2020/11/30/scheduled-scaling-with-hpa)
 - [ステージング環境の夜間停止によるコスト削減](https://quipper.hatenablog.com/entry/2020/11/17/reduce-staging-cost)
 - [ALB Weighted Target Groups による EKS Cluster の Canary Switching](https://quipper.hatenablog.com/entry/2020/10/07/eks-canary-switching)
 - [褒めるラジオ quipper.fm](https://quipper.hatenablog.com/entry/2020/08/17/quipper-fm)
