@@ -3,6 +3,12 @@ title: "Presentation"
 draft: false
 ---
 
+## 2021
+
+* [Developers Summit 2021](https://event.shoeisha.jp/devsumi/20210218) - [想定外の負荷を乗り切ったオンライン教育サービスの裏側](https://event.shoeisha.jp/devsumi/20210218/session/3084/)
+* [July Tech Festa 2021 winter](https://techfesta.connpass.com/event/193966/) - Life with Datadog
+* [Kubernetes Meetup Tokyo #38](https://k8sjp.connpass.com/event/200136/) - HPA autoscaling/v2beta2 の機能解説と Datadog を利用した External Metrics の活用事例
+
 ## 2020
 * [Japan Datadog User Group Meetup#1](https://datadog-jp.connpass.com/event/185920/) - [Alert Handling with Datadog Incident Management](https://speakerdeck.com/chaspy/alert-handling-with-datadog-incident-management)
 * [SRE Lounge #12](https://sre-lounge.connpass.com/event/175323/) - [Alerting Strategy for Self-Contained Team](https://speakerdeck.com/chaspy/alerting-strategy-for-self-contained-team)
