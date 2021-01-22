@@ -59,4 +59,4 @@ I can communicate and discuss in English. As an SRE, I have introduced new techn
 - 2020 Apl. [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate/)
 - 2020 Jan. [Site Reliability Engineering: Measuring and Managing Reliability](https://coursera.org/share/a5c7b848a3d2bbdbca851afeb1a77783)
 - 2015 Jun. [Information Security Specialist Examination(SC)](https://www.jitec.ipa.go.jp/1_11seido/sc_28.html)
-- 2014 Dec. [Network Specialist Examination(NW)](hnology](http://www.kyutech.ac.jp/)
+- 2014 Dec. [Network Specialist Examination(NW)](https://www.jitec.ipa.go.jp/1_11seido/nw.html)
