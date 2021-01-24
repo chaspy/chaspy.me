@@ -7,7 +7,7 @@ draft: false
 
 * [Developers Summit 2021](https://event.shoeisha.jp/devsumi/20210218) - [想定外の負荷を乗り切ったオンライン教育サービスの裏側](https://event.shoeisha.jp/devsumi/20210218/session/3084/)
 * [July Tech Festa 2021 winter](https://techfesta.connpass.com/event/193966/) - Life with Datadog
-* [Kubernetes Meetup Tokyo #38](https://k8sjp.connpass.com/event/200136/) - HPA autoscaling/v2beta2 の機能解説と Datadog を利用した External Metrics の活用事例
+* [Kubernetes Meetup Tokyo #38](https://k8sjp.connpass.com/event/200136/) - [HPA autoscaling/v2beta2 の機能解説と Datadog を利用した HPA External Metrics の活用事例](https://speakerdeck.com/chaspy/v2beta2-and-examples-of-using-hpa-external-metrics-with-datadoijp/1_11seido/nw.htmlg)
 
 ## 2020
 * [Japan Datadog User Group Meetup#1](https://datadog-jp.connpass.com/event/185920/) - [Alert Handling with Datadog Incident Management](https://speakerdeck.com/chaspy/alert-handling-with-datadog-incident-management)
