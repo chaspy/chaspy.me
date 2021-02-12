@@ -5,6 +5,7 @@ draft: false
 
 ## 2021
 
+* [CLOUDNATIVE DAYS SPRING 2021 ONLINE](https://event.cloudnativedays.jp/cndo2021) - [Metric-Driven Decision Making with Custom Prometheus Exporter](https://event.cloudnativedays.jp/cndo2021/talks/681)
 * [Developers Summit 2021](https://event.shoeisha.jp/devsumi/20210218) - [想定外の負荷を乗り切ったオンライン教育サービスの裏側](https://event.shoeisha.jp/devsumi/20210218/session/3084/)
 * [Terraform meetup ONLINE #2020.02](https://terraform-jp.connpass.com/event/200581/) - [How to add a new lint to tflint-ruleset-aws](https://gist.github.com/chaspy/606b4c30408b4e1bf0322c0f53c1e78b)
 * [July Tech Festa 2021 winter](https://techfesta.connpass.com/event/193966/) - [Life with Datadog](https://speakerdeck.com/chaspy/life-with-datadog)
