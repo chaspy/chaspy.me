@@ -6,7 +6,7 @@ draft: false
 ## 2021
 
 * [Developers Summit 2021](https://event.shoeisha.jp/devsumi/20210218) - [想定外の負荷を乗り切ったオンライン教育サービスの裏側](https://event.shoeisha.jp/devsumi/20210218/session/3084/)
-* [Terraform meetup ONLINE #2020.02](https://terraform-jp.connpass.com/event/200581/) - struggling with tfsec
+* [Terraform meetup ONLINE #2020.02](https://terraform-jp.connpass.com/event/200581/) - [How to add a new lint to tflint-ruleset-aws](https://gist.github.com/chaspy/606b4c30408b4e1bf0322c0f53c1e78b)
 * [July Tech Festa 2021 winter](https://techfesta.connpass.com/event/193966/) - [Life with Datadog](https://speakerdeck.com/chaspy/life-with-datadog)
 * [Kubernetes Meetup Tokyo #38](https://k8sjp.connpass.com/event/200136/) - [HPA autoscaling/v2beta2 の機能解説と Datadog を利用した HPA External Metrics の活用事例](https://speakerdeck.com/chaspy/v2beta2-and-examples-of-using-hpa-external-metrics-with-datadoijp/1_11seido/nw.htmlg)
 
