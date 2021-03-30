@@ -9,6 +9,7 @@ draft: false
 
 ## Quipper Product Team Blog (Japanese)
 
+- [SRE Team のオンボーディングのいま](https://quipper.hatenablog.com/entry/2021/03/16/sre-onboarding-2020)
 - [Kubernetes HPA External Metrics を利用した Scheduled-Scaling](https://quipper.hatenablog.com/entry/2020/11/30/scheduled-scaling-with-hpa)
 - [ステージング環境の夜間停止によるコスト削減](https://quipper.hatenablog.com/entry/2020/11/17/reduce-staging-cost)
 - [ALB Weighted Target Groups による EKS Cluster の Canary Switching](https://quipper.hatenablog.com/entry/2020/10/07/eks-canary-switching)
