@@ -27,6 +27,8 @@ draft: false
 - [オンボーディングのはじめかた](https://quipper.hatenablog.com/entry/2019/03/25/sre-onboarding)
 - [新入社員から見たQuipperで働く環境](https://quipper.hatenablog.com/entry/2018/08/06/joiner-meets-quipper)
 
+## Quipper Engineering Blog (English)
+- [Scheduled-Scaling with Kubernetes HPA External Metrics](https://quipper.github.io/2021/07/13/schduled-scaling-with-kubernetes-external-metrics.html)
 
 ## Qiita (Japanese)
 [chaspy](https://qiita.com/chaspy)
