@@ -29,6 +29,7 @@ draft: false
 
 ## Quipper Engineering Blog (English)
 - [Scheduled-Scaling with Kubernetes HPA External Metrics](https://quipper.github.io/2021/07/13/schduled-scaling-with-kubernetes-external-metrics.html)
+  - Introduced in [kubeweekly #268](https://email.linuxfoundation.org/kubeweekly-268)
 
 ## Qiita (Japanese)
 [chaspy](https://qiita.com/chaspy)
