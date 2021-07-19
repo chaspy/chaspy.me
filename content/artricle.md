@@ -9,4 +9,5 @@ draft: false
 
 ## Web
 
+- 2021-07-12 [緊急事態宣言で負荷急増！ 想定外の危機にスタディサプリはどう対処したか？【デブサミ2021】](https://codezine.jp/article/detail/14354)
 - 2020-07-21 [ユーザーの幸福度を定量化――SLI、SLO実践の4ステップ](https://www.atmarkit.co.jp/ait/articles/2007/21/news003.html)
