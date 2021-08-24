@@ -9,6 +9,7 @@ draft: false
 
 ## Quipper Product Team Blog (Japanese)
 
+- [自分たちのシステムを診断するために DX Criteria"システム"テーマを実施しました](https://quipper.hatenablog.com/entry/2020/08/17/dx-criteria-system)
 - [SRE Team のオンボーディングのいま](https://quipper.hatenablog.com/entry/2021/03/16/sre-onboarding-2020)
 - [Kubernetes HPA External Metrics を利用した Scheduled-Scaling](https://quipper.hatenablog.com/entry/2020/11/30/scheduled-scaling-with-hpa)
 - [ステージング環境の夜間停止によるコスト削減](https://quipper.hatenablog.com/entry/2020/11/17/reduce-staging-cost)
