@@ -3,7 +3,7 @@ title: "About"
 draft: false
 ---
 
-Lead Software Engineer, Site Reliability at [Quipper](http://www.quipper.com) (Jul,2018〜).
+Engineering Manager, Site Reliability at [Recruit Co., Ltd.](https://www.recruit.co.jp/) (Oct, 2021~), formaerly [Quipper](http://www.quipper.com) (Jul,2018〜).
 
 I have six years of experience as a software engineer. Of that, I have two years of experience as a Site Reliability Engineer.
 
@@ -17,10 +17,16 @@ I can communicate and discuss in English. As an SRE, I have introduced new techn
 
 # Career
 
+## [Recruit Co., Ltd.](https://www.recruit.co.jp/) (Oct, 2021~)
+
+### Engineering Manager, Site Reliability (Oct, 2021~)
+
+* Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.quipper.com)
+
 ## [Quipper Limited](http://www.quipper.com) (Jun,2018〜)
 
 ### Lead Software Engineer, Site Reliability (Jun,2020〜)
-* Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.qui    pper.com)
+* Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.quipper.com)
   * Lead SRE Team / Project
   * Define an alert policy and implement it in the service team
   * Introduce Progressive Delivery
