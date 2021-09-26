@@ -36,6 +36,9 @@ draft: false
 ## Qiita (Japanese)
 [chaspy](https://qiita.com/chaspy)
 
-
 ## Medium (English)
 [chaspy](https://medium.com/@chaspy)
+
+## sister Blog (Japanese)
+
+- [sister team に join したきっかけと SRE としての取り組み](https://blog.sisterwith.com/blog/sre-for-sister)
