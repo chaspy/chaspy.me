@@ -3,14 +3,22 @@ title: "Presentation"
 draft: false
 ---
 
+## 2022
+
+* [SRE NEXT 2022](https://sre-next.dev/2022/) - [Who owns the Service Level?](https://speakerdeck.com/chaspy/who-owns-the-service-level)
+* [WTM Tokyo - International Women's Day 2022](https://wtm-tokyo.connpass.com/event/241705/) - [多様な働き方を支える Working Agreements](https://speakerdeck.com/chaspy/working-agreements-that-support-diverse-work-styles)
+* [6社合同 SRE勉強会 - connpass](https://line.connpass.com/event/236497/) - [SRE を実現するための組織マネジメント](https://speakerdeck.com/chaspy/management-to-achieve-sre)
+* [【iCARE Dev Meetup #29】エンジニアによる新規サービス立ち上げの苦労と喜び](https://icare.connpass.com/event/234046/) -  [サービス立ち上げ期におけるSREの取り組み](https://speakerdeck.com/chaspy/sre-efforts-in-the-service-launch-phase)
+
 ## 2021
 
+* [Infra Study 2nd #7「SREと組織」](https://forkwell.connpass.com/event/228038/) - [Implementing Site Reliability Engineering in your organization](https://speakerdeck.com/chaspy/implementing-site-reliability-engineering-in-your-organization)
 * [スタディサプリ/Quipper オンラインミートアップ #3（SRE）](https://quipper.connpass.com/event/221184/) - [How to measure "Site Reliability Engineering"](https://speakerdeck.com/chaspy/how-to-measure-site-reliability-engineering)
 * [CLOUDNATIVE DAYS SPRING 2021 ONLINE](https://event.cloudnativedays.jp/cndo2021) - [Metric-Driven Decision Making with Custom Prometheus Exporter](https://event.cloudnativedays.jp/cndo2021/talks/681)
 * [Developers Summit 2021](https://event.shoeisha.jp/devsumi/20210218) - [想定外の負荷を乗り切ったオンライン教育サービスの裏側](https://event.shoeisha.jp/devsumi/20210218/session/3084/)
 * [Terraform meetup ONLINE #2020.02](https://terraform-jp.connpass.com/event/200581/) - [How to add a new lint to tflint-ruleset-aws](https://gist.github.com/chaspy/606b4c30408b4e1bf0322c0f53c1e78b)
 * [July Tech Festa 2021 winter](https://techfesta.connpass.com/event/193966/) - [Life with Datadog](https://speakerdeck.com/chaspy/life-with-datadog)
-* [Kubernetes Meetup Tokyo #38](https://k8sjp.connpass.com/event/200136/) - [HPA autoscaling/v2beta2 の機能解説と Datadog を利用した HPA External Metrics の活用事例](https://speakerdeck.com/chaspy/v2beta2-and-examples-of-using-hpa-external-metrics-with-datadoijp/1_11seido/nw.htmlg)
+* [Kubernetes Meetup Tokyo #38](https://k8sjp.connpass.com/event/200136/) - [HPA autoscaling/v2beta2 の機能解説と Datadog を利用した HPA External Metrics の活用事例](https://speakerdeck.com/chaspy/v2beta2-and-examples-of-using-hpa-external-metrics-with-datadog)
 
 ## 2020
 * [Japan Datadog User Group Meetup#1](https://datadog-jp.connpass.com/event/185920/) - [Alert Handling with Datadog Incident Management](https://speakerdeck.com/chaspy/alert-handling-with-datadog-incident-management)

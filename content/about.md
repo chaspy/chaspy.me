@@ -3,6 +3,105 @@ title: "About"
 draft: false
 ---
 
+English follows Japanese.
+
+# 基本情報と連絡先
+
+|key|value|
+|---|-----|
+|Name|Takeshi Kondo|
+|Email|take.she12[at]gmail.com|
+
+# 職務要約
+
+Software Engineer として 7年+, うち Site Reliability Engineer として 3年+ の経験があります。
+
+On-Premise 環境でのハード・ネットワーク・ストレージの知識および Cloud 利用、それらを Software で制御する IaC や Container Orchestration 領域に強みがあります。
+
+SRE として、Web Service の信頼性担保のためのObservability やIncident Response / Management の経験があります。SLI/SLO を100名規模の開発組織に導入し、Engineering だけでなく Culture として組織を推進する力があります。
+
+Individual Contributor として、影響範囲の大きい Platform Migration をLead を担うことができます。必要なツールや自動化のための Software Programming を行うことができます。
+
+また、オンボーディングプロセスの導入および推進や、技術コミュニティの運営、カンファレンスの運営等、技術外での Culture Making 活動およびコミュニティ活動の実績と知見があります。
+
+# 職務経歴
+
+## [株式会社リクルート](https://www.recruit.co.jp/) (Oct. 2021~)
+
+### Engineering Manager, Site Reliability (Oct. 2021~)
+
+SRE として国内に展開する[スタディサプリ](https://studysapuri.jp) と海外に展開する [Quipper](https://www.quipper.com) の信頼性に関わる業務に従事。
+
+## [Quipper Limited](http://www.quipper.com) (Jun. 2018 ~ Sep. 2021)
+
+### Lead Software Engineer, Site Reliability (Jun. 2020 ~ Sep. 2021)
+
+SRE として国内に展開する[スタディサプリ](https://studysapuri.jp) と海外に展開する [Quipper](https://www.quipper.com) の信頼性に関わる業務に従事。
+
+#### SRE Team の Lead Engineer としてTeam および開発組織の Lead
+
+5-7名規模の SRE Team の Lead Engineer として、Team Member の業務遂行のための障壁を取り除き、Individual Contributor として成果を出しました。
+
+#### Service の Alert Policy の再定義
+
+Alert Policy もなく、都度反応しており、Noise となっていた状態から、Sevirity を定義、全166 のアラートを見直しました。
+
+詳細は [Alerting Strategy for Self-Contained Team](https://speakerdeck.com/chaspy/alerting-strategy-for-self-contained-team) をご覧ください。
+
+#### Argo Rollouts を用いた Progressive Delivery(Canary Release) の実現
+
+Progressive Delivery の1豊富として、Kubernetes Native で導入が用意な Arog Rollouts を用い、Rails Upgrade などリスクの高い変更を段階的にリリースできる基盤作りに貢献しました。
+
+#### Application Platform を Self-Hosted Kubernetes から Amazon EKS への移行
+
+AWS 上に Self-Host していた Kubernetes Cluster を Amazon EKS へ移行しました。ref: [Self-Hosted Cluster から EKS への移行と Platform の Production Readiness](https://quipper.hatenablog.com/entry/2020/08/11/migration-to-eks)
+
+また、Cluster Upgrade に対しても ALB Weighted Target Groups を用いた Canary Reelase の仕組みを実現しました。ref: [ALB Weighted Target Groups による EKS Cluster の Canary Switching](https://quipper.hatenablog.com/entry/2020/10/07/eks-canary-switching)
+
+### Software Engineer, Site Reliability (Jun 2018 ~ Jun 2020)
+
+SRE として国内に展開する[スタディサプリ](https://studysapuri.jp) と海外に展開する [Quipper](https://www.quipper.com) の信頼性に関わる業務に従事。
+
+#### Microservices に転換する上での Production Readiness に関わるプロセス整備
+
+組織の拡大を見越して、Monolith Application から Microservice Architecture に移行した後の、Production Readiness を担保するプロセスおよびカルチャーを作りました。具体的には以下のようなことを Lead しました。
+
+- Service の Owner を決める・定義できる仕組み作り
+- 新規サービス作成時のDesign Doc Review および Productoon Readiness Checklist の立ち上げ・メンテナンス ref: [みんなでつくる Production Readiness](https://quipper.hatenablog.com/entry/2020/01/30/production-readiness-with-all)
+- Cloud Infrastructure (Microservice が利用する RDS) を開発者が Self-Service で作成できる仕組み作り
+
+#### SLI/SLO を計測、定義する文化を開発チームに導入
+
+SRE の Core Concept である SLI/SLO を組織に導入しました。ref: [https://quipper.hatenablog.com/entry/2020/01/30/slo-review](https://quipper.hatenablog.com/entry/2020/01/30/slo-review)
+
+## [富士通株式会社](http://www.fujitsu.com/jp/) (Apl,2014 - Jun,2018)
+
+### Software Engineer
+
+#### [Public Cloud IaaS K5](https://jp.fujitsu.com/solutions/cloud/k5/)
+* MariaDB Garela Cluster の停止時間を最小限にしながらの Major Version Upgrade 手法の提案
+* OpenStack IaaS コンポーネント(Nova, Cinder, Glance, Keystone, and Heat) のバグ修正
+* IaaS コンポーネントの無停止保守を行うツール開発
+* OpenStack の CI/CD 環境の構築およびチームへの導入支援
+
+#### [ServerView Resource Orchestrator](https://www.fujitsu.com/jp/products/software/infrastructure-software/infrastructure-software/ror/)
+* ストレージコンポーネントの開発および修正
+
+# 学歴
+
+* [九州工業大学](http://www.kyutech.ac.jp/) 情報工学部 情報システム専攻 修了(Mar. 2014)
+  * [次数情報を利用したリンク重要度推定およびネットワーク特性との相関調査 (情報ネットワーク)](https://ci.nii.ac.jp/naid/110009861196/)
+
+# 資格
+
+- 2020 Apl. [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate/)
+- 2020 Jan. [Site Reliability Engineering: Measuring and Managing Reliability](https://coursera.org/share/a5c7b848a3d2bbdbca851afeb1a77783)
+- 2015 Jun. [情報セキュリティスペシャリスト](https://www.jitec.ipa.go.jp/1_11seido/sc_28.html)
+- 2014 Dec. [ネットワークスペシャリスト](https://www.jitec.ipa.go.jp/1_11seido/nw.html)
+
+
+---
+
 Engineering Manager, Site Reliability at [Recruit Co., Ltd.](https://www.recruit.co.jp/) (Oct, 2021~), formaerly [Quipper](http://www.quipper.com) (Jul,2018〜).
 
 I have six years of experience as a software engineer. Of that, I have two years of experience as a Site Reliability Engineer.
