@@ -14,13 +14,13 @@ English follows Japanese.
 
 # 職務要約
 
-Software Engineer として 7年+, うち Site Reliability Engineer として 3年+ の経験があります。
+Software Engineer として 8年+, うち Site Reliability Engineer として 4年+、Engineering Manager としての経験が 1年+ あります。
 
 On-Premise 環境でのハード・ネットワーク・ストレージの知識および Cloud 利用、それらを Software で制御する IaC や Container Orchestration 領域に強みがあります。
 
 SRE として、Web Service の信頼性担保のためのObservability やIncident Response / Management の経験があります。SLI/SLO を100名規模の開発組織に導入し、Engineering だけでなく Culture として組織を推進する力があります。
 
-Individual Contributor として、影響範囲の大きい Platform Migration をLead を担うことができます。必要なツールや自動化のための Software Programming を行うことができます。
+Individual Contributor として、SRE / Platform Engineering 領域の Lead を担うことができます。そのために必要なツールや自動化のための Software Programming を行うことができます。
 
 また、オンボーディングプロセスの導入および推進や、技術コミュニティの運営、カンファレンスの運営等、技術外での Culture Making 活動およびコミュニティ活動の実績と知見があります。
 
