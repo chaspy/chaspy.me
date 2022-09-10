@@ -69,6 +69,7 @@ AWS 上に Self-Host していた Kubernetes Cluster を Amazon EKS へ移行し
 詳細は [Kubernetes HPA External Metrics を利用した Scheduled-Scaling](https://blog.studysapuri.jp/entry/2020/11/30/scheduled-scaling-with-hpa) をご覧ください。
 
 以下の登壇資料でも解説しています。
+
 - [想定外の負荷を乗り切ったオンライン教育サービスの裏側](https://speakerdeck.com/chaspy/how-we-overcame-the-covid-19-crisis)
 - [HPA autoscaling/v2beta2 の機能解説と Datadog を利用した HPA External Metrics の活用事例](https://speakerdeck.com/chaspy/v2beta2-and-examples-of-using-hpa-external-metrics-with-datadog)
 
