@@ -50,7 +50,7 @@ Alert Policy もなく、都度反応しており、Noise となっていた状�
 
 #### Argo Rollouts を用いた Progressive Delivery(Canary Release) の実現
 
-Progressive Delivery の1豊富として、Kubernetes Native で導入が用意な Arog Rollouts を用い、Rails Upgrade などリスクの高い変更を段階的にリリースできる基盤作りに貢献しました。
+Progressive Delivery の実践として、Kubernetes Native で導入が用意な Argo Rollouts を用い、Rails Upgrade などリスクの高い変更を段階的にリリースできる基盤作りに貢献しました。
 
 #### Application Platform を Self-Hosted Kubernetes から Amazon EKS への移行
 
