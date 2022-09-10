@@ -54,9 +54,23 @@ Progressive Delivery の実践として、Kubernetes Native で導入が用意�
 
 #### Application Platform を Self-Hosted Kubernetes から Amazon EKS への移行
 
-AWS 上に Self-Host していた Kubernetes Cluster を Amazon EKS へ移行しました。ref: [Self-Hosted Cluster から EKS への移行と Platform の Production Readiness](https://quipper.hatenablog.com/entry/2020/08/11/migration-to-eks)
+AWS 上に Self-Host していた Kubernetes Cluster を Amazon EKS へ移行しました。
 
-また、Cluster Upgrade に対しても ALB Weighted Target Groups を用いた Canary Reelase の仕組みを実現しました。ref: [ALB Weighted Target Groups による EKS Cluster の Canary Switching](https://quipper.hatenablog.com/entry/2020/10/07/eks-canary-switching)
+詳細は [Self-Hosted Cluster から EKS への移行と Platform の Production Readiness](https://quipper.hatenablog.com/entry/2020/08/11/migration-to-eks) をご覧ください。
+
+また、Cluster Upgrade に対しても ALB Weighted Target Groups を用いた Canary Reelase の仕組みを実現しました。
+
+詳細は [ALB Weighted Target Groups による EKS Cluster の Canary Switching](https://quipper.hatenablog.com/entry/2020/10/07/eks-canary-switching) をご覧ください。
+
+#### ドメイン固有データを利用した Scheduled Scaling
+
+「定期テスト」という一斉にアクセスが発生するイベントに対して、サービスダウンを回避するために Kubernetes HPA External Metrics を利用した Scheduled Scaling を実現しました。
+
+詳細は [Kubernetes HPA External Metrics を利用した Scheduled-Scaling](https://blog.studysapuri.jp/entry/2020/11/30/scheduled-scaling-with-hpa) をご覧ください。
+
+以下の登壇資料でも解説しています。
+- [想定外の負荷を乗り切ったオンライン教育サービスの裏側](https://speakerdeck.com/chaspy/how-we-overcame-the-covid-19-crisis)
+- [HPA autoscaling/v2beta2 の機能解説と Datadog を利用した HPA External Metrics の活用事例](https://speakerdeck.com/chaspy/v2beta2-and-examples-of-using-hpa-external-metrics-with-datadog)
 
 ### Software Engineer, Site Reliability (Jun 2018 ~ Jun 2020)
 
@@ -67,12 +81,15 @@ SRE として国内に展開する[スタディサプリ](https://studysapuri.jp
 組織の拡大を見越して、Monolith Application から Microservice Architecture に移行した後の、Production Readiness を担保するプロセスおよびカルチャーを作りました。具体的には以下のようなことを Lead しました。
 
 - Service の Owner を決める・定義できる仕組み作り
-- 新規サービス作成時のDesign Doc Review および Productoon Readiness Checklist の立ち上げ・メンテナンス ref: [みんなでつくる Production Readiness](https://quipper.hatenablog.com/entry/2020/01/30/production-readiness-with-all)
+- 新規サービス作成時のDesign Doc Review および Productoon Readiness Checklist の立ち上げ・メンテナンス
+  - ref: [みんなでつくる Production Readiness](https://quipper.hatenablog.com/entry/2020/01/30/production-readiness-with-all)
 - Cloud Infrastructure (Microservice が利用する RDS) を開発者が Self-Service で作成できる仕組み作り
 
 #### SLI/SLO を計測、定義する文化を開発チームに導入
 
-SRE の Core Concept である SLI/SLO を組織に導入しました。ref: [https://quipper.hatenablog.com/entry/2020/01/30/slo-review](https://quipper.hatenablog.com/entry/2020/01/30/slo-review)
+SRE の Core Concept である SLI/SLO を組織に導入しました。
+
+詳細は [SRE NEXT 2020 で「SLO Review」というタイトルで登壇しました #srenext](https://quipper.hatenablog.com/entry/2020/01/30/slo-review) をご覧ください。
 
 ## [富士通株式会社](http://www.fujitsu.com/jp/) (Apl,2014 - Jun,2018)
 
