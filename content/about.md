@@ -26,9 +26,15 @@ Individual Contributor として、SRE / Platform Engineering 領域の Lead を
 
 # 職務経歴
 
-## [株式会社リクルート](https://www.recruit.co.jp/) (Oct. 2021~)
+## [株式会社リクルート](https://www.recruit.co.jp/) (Oct. 2022~)
 
-### Engineering Manager, Site Reliability (Oct. 2021~)
+### Engineering Manager, Site Reliability / Web Application Development (Oct. 2022 ~)
+
+SRE として国内に展開する[スタディサプリ](https://studysapuri.jp) と海外に展開する [Quipper](https://www.quipper.com) の信頼性に関わる業務に従事。
+
+加えて、スタディサプリ新中学講座の開発チームのマネジメントに従事。
+
+### Engineering Manager, Site Reliability (Oct. 2021 ~ Sep. 2022)
 
 SRE として国内に展開する[スタディサプリ](https://studysapuri.jp) と海外に展開する [Quipper](https://www.quipper.com) の信頼性に関わる業務に従事。
 
@@ -136,7 +142,13 @@ I can communicate and discuss in English. As an SRE, I have introduced new techn
 
 ## [Recruit Co., Ltd.](https://www.recruit.co.jp/) (Oct, 2021~)
 
-### Engineering Manager, Site Reliability (Oct, 2021~)
+### Engineering Manager, Site Reliability (Oct, 2022 ~)
+
+* Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.quipper.com)
+
+* Responsible of Web Application Development for StudySapuri new junior high school course. 
+
+### Engineering Manager, Site Reliability (Oct, 2021 ~ Sep. 2022)
 
 * Responsible of site reliability for [studysapuri.jp](https://studysapuri.jp) and [quipper.com](https://www.quipper.com)
 
