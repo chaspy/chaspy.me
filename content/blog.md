@@ -9,6 +9,8 @@ draft: false
 
 ## Quipper Product Team Blog (Japanese)
 
+- [Engineering Manager のしごと - スタディサプリ小中高 SRE チームの場合](https://blog.studysapuri.jp/entry/2022/08/23/sre-engineering-manager)
+- [Google Calendar の speedy meeting でミーティング間の休憩を確保しよう](https://blog.studysapuri.jp/entry/2022/07/26/speedy-meeting)
 - [チームのコラボレーションを支える"ミッションツリー"](https://blog.studysapuri.jp/entry/2022/02/25/sre-mission-tree)
 - [SRE チームを支えるふりかえりの文化](https://blog.studysapuri.jp/entry/2022/02/19/sre-retrospective-culture)
 - [6社合同 SRE 勉強会で" SRE を実現するための組織マネジメント"という題で登壇します](https://blog.studysapuri.jp/entry/2022/02/17/sre-study-session)
