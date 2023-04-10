@@ -9,11 +9,16 @@ draft: false
 
 ## Quipper Product Team Blog (Japanese)
 
+### 2022年
+
 - [Engineering Manager のしごと - スタディサプリ小中高 SRE チームの場合](https://blog.studysapuri.jp/entry/2022/08/23/sre-engineering-manager)
 - [Google Calendar の speedy meeting でミーティング間の休憩を確保しよう](https://blog.studysapuri.jp/entry/2022/07/26/speedy-meeting)
 - [チームのコラボレーションを支える"ミッションツリー"](https://blog.studysapuri.jp/entry/2022/02/25/sre-mission-tree)
 - [SRE チームを支えるふりかえりの文化](https://blog.studysapuri.jp/entry/2022/02/19/sre-retrospective-culture)
 - [6社合同 SRE 勉強会で" SRE を実現するための組織マネジメント"という題で登壇します](https://blog.studysapuri.jp/entry/2022/02/17/sre-study-session)
+
+### 2020年
+
 - [スタディサプリ/Quipper オンラインミートアップ#3で How to measure "Site Reliability Engineering" というタイトルで登壇しました](https://quipper.hatenablog.com/entry/2020/08/31/how-to-measure-sre)
 - [自分たちのシステムを診断するために DX Criteria"システム"テーマを実施しました](https://quipper.hatenablog.com/entry/2020/08/17/dx-criteria-system)
 - [SRE Team のオンボーディングのいま](https://quipper.hatenablog.com/entry/2021/03/16/sre-onboarding-2020)
@@ -27,14 +32,21 @@ draft: false
 - [みんなでつくる Production Readiness](https://quipper.hatenablog.com/entry/2020/01/30/production-readiness-with-all)
 - [SRE NEXT 2020 で「SLO Review」というタイトルで登壇しました #srenext](https://quipper.hatenablog.com/entry/2020/01/30/slo-review)
 - [Business Trip for Global Team](https://quipper.hatenablog.com/entry/2020/01/21/sre-business-trip)
+
+### 2019年
+
 - [障害対応とポストモーテム](https://quipper.hatenablog.com/entry/2019/11/27/080000/incident-response-and-postmortem)
 - [負荷試験との向き合い方](https://quipper.hatenablog.com/entry/2019/09/26/080000)
 - [英語でのプレゼンをやりきるたった1つのコツ](https://quipper.hatenablog.com/entry/2019/06/21/080000)
 - [Production Readiness Check のはじめかた](https://quipper.hatenablog.com/entry/2019/06/07/080000)
 - [オンボーディングのはじめかた](https://quipper.hatenablog.com/entry/2019/03/25/sre-onboarding)
+
+### 2018年
+
 - [新入社員から見たQuipperで働く環境](https://quipper.hatenablog.com/entry/2018/08/06/joiner-meets-quipper)
 
 ## Quipper Engineering Blog (English)
+
 - [Scheduled-Scaling with Kubernetes HPA External Metrics](https://quipper.github.io/2021/07/13/schduled-scaling-with-kubernetes-external-metrics.html)
   - Introduced in [kubeweekly #268](https://email.linuxfoundation.org/kubeweekly-268)
 
