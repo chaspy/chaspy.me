@@ -3,6 +3,10 @@ title: "Presentation"
 draft: false
 ---
 
+## 2023
+
+* [インシデントにどう対応してきたか？みんなで学ぶポストモーテム Lunch LT - connpass](https://findy.connpass.com/event/273197/) / [ポストモーテム運用を支える文化と技術](https://speakerdeck.com/chaspy/culture-and-technology-supporting-postmortem-operations)
+
 ## 2022
 
 * [SRE NEXT 2022](https://sre-next.dev/2022/) - [Who owns the Service Level?](https://speakerdeck.com/chaspy/who-owns-the-service-level)
