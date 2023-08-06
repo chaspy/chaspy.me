@@ -5,6 +5,9 @@ draft: false
 
 ## 2023
 
+* [CloudNative Days Fukuoka 2023](https://event.cloudnativedays.jp/cndf2023) - [自己診断能力の獲得を目指して](https://speakerdeck.com/chaspy/toward-the-acquisition-of-self-diagnostic-skills)
+*  [【有料プランユーザー様限定×オフライン】MagicPodユーザーLT会](https://trident-qa.connpass.com/event/283709/) -  [『スタディサプリ 中学講座』における E2E Test の運用と計測による改善](https://speakerdeck.com/chaspy/improved-e2e-testing-through-measurement)
+* [SLOconf Tokyo 2023](https://connpass.com/event/282120/) - [スタディサプリにおける SLI/SLO の継続的改善](https://speakerdeck.com/chaspy/slo-at-studysapuri)
 * [インシデントにどう対応してきたか？みんなで学ぶポストモーテム Lunch LT - connpass](https://findy.connpass.com/event/273197/) / [ポストモーテム運用を支える文化と技術](https://speakerdeck.com/chaspy/culture-and-technology-supporting-postmortem-operations)
 
 ## 2022
