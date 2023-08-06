@@ -14,7 +14,7 @@ English follows Japanese.
 
 # 職務要約
 
-Software Engineer として 8年+, うち Site Reliability Engineer として 4年+、Engineering Manager としての経験が 1年+ あります。
+Software Engineer として 9年+, うち Site Reliability Engineer として 5年+、Engineering Manager としての経験が 2年+ あります。
 
 On-Premise 環境でのハード・ネットワーク・ストレージの知識および Cloud 利用、それらを Software で制御する IaC や Container Orchestration 領域に強みがあります。
 
