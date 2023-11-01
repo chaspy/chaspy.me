@@ -5,8 +5,8 @@ draft: false
 
 ## 2023
 
-* [ゆる SRE 勉強会 #2](https://yuru-sre.connpass.com/event/293783/) - 「SLO Review」今やるならこうする
-* [SRE NEXT 2023](https://sre-next.dev/2023/) - 開発者とともに作る Site Reliability Engineering
+* [ゆる SRE 勉強会 #2](https://yuru-sre.connpass.com/event/293783/) - [「SLO Review」今やるならこうする](https://speakerdeck.com/chaspy/if-i-had-to-do-the-slo-review-again)
+* [SRE NEXT 2023](https://sre-next.dev/2023/schedule/#jp011) - [開発者とともに作る Site Reliability Engineering](https://speakerdeck.com/chaspy/sreing-with-developers)
 * [CloudNative Days Fukuoka 2023](https://event.cloudnativedays.jp/cndf2023) - [自己診断能力の獲得を目指して](https://speakerdeck.com/chaspy/toward-the-acquisition-of-self-diagnostic-skills)
 *  [【有料プランユーザー様限定×オフライン】MagicPodユーザーLT会](https://trident-qa.connpass.com/event/283709/) -  [『スタディサプリ 中学講座』における E2E Test の運用と計測による改善](https://speakerdeck.com/chaspy/improved-e2e-testing-through-measurement)
 * [SLOconf Tokyo 2023](https://connpass.com/event/282120/) - [スタディサプリにおける SLI/SLO の継続的改善](https://speakerdeck.com/chaspy/slo-at-studysapuri)
