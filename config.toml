@@ -128,7 +128,7 @@ url = "https://www.facebook.com/takeshi.kondo.18041"
   name = "home"
   identifier = "home"
   weight = 100
-  url = "/"
+  url = "/home/"
 
   [[menu.main]]
   name = "About"
