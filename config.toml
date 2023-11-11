@@ -64,7 +64,7 @@ favicon = "favicons/"
 customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
+mainSections = [""]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -126,9 +126,9 @@ url = "https://www.facebook.com/takeshi.kondo.18041"
 
   [[menu.main]]
   name = "home"
-  identifier = "home"
+  identifier = ""
   weight = 100
-  url = "/home/"
+  url = "/"
 
   [[menu.main]]
   name = "About"
