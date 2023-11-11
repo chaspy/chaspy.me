@@ -1,57 +1,163 @@
-baseurl = "https://chaspy.me/"
-theme = "cocoa-eh"
-builddrafts = true
-canonifyurls = true
-contentdir = "content"
-languageCode = "en-US"
-layoutdir = "layouts"
-publishdir = "public"
-author = "Takeshi Kondo"
-title = "Takeshi Kondo"
-disqusshortname = "chaspy"
-pluralizelisttitles = false
+baseURL = "https://chaspy.me"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of chaspy"
 
-[permalinks]
-#blog = "blog/:slug/"
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+# Localized dates requires Hugo version 0.87.0
+localizedDates = false
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
+
 
 [params]
-dateform = "Jan 2, 2006"
-dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Takeshi Kondo"
-copyright = "Copyright © 2023 Takeshi Kondo"
-copyrightUrl = "https://themes.gohugo.io/cocoa-eh-hugo-theme/"
-logofile = "img/chaspy.jpg"
-faviconfile = "img/logo.png"
-highlightjs = true
-progressively = true
-share = true
-# Share to googleplus, twitter, fb, linkedin by default
-# disable by setting share_on_<social network> = false
-# example: share_on_googleplus = false
-#latestpostcount = 5
-github = "chaspy"
-email = "take.she12@gmail.com"
-linkedin = "chaspy"
-twitter = "chaspy_"
-facebook = "takeshi.kondo.18041"
-social_banner = "img/banner.png"
-usesmallsummarycard = true
-#posts_navigation = true
-# issoHost = "comments.domain.tld:1234"
-githubRepo = "chaspy/chaspy.me/tree/master"
-small_banner_logo = false
-extracssfiles = [ "/css/override.css" ]
 
-[params.colors]
-identifier = "#527fc1f"
-identifier_dark = "#1a3152"
-trivial = "#6a7a8b"
-foreground = "#181d2a"
-background = "#f9f9f9"
-background_dark = "#282a36"
-code = "#87a5d2"
-type = "#97d28b"
-special = "#ffcb8d"
-value = "#96c2d7"
-statement = "#ff8e91"
+title = "Takeshi Kondo"
+author = "Takeshi Kondo"
+copyright = "2023"
+description = "Call me chaspy"
+profilePicture = "img/chaspy.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = ["css/custom.css"]
+# example ["js/custom.js"]
+customJs = [] 
+mainSections = ["post"]
+images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+# Form Spree Contact Form
+#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+#contactFormReCaptcha = "your-site-key-here"
+# Google Fonts
+googleFonts = ["Noto+Sans+JP:wght@200", "Noto+Serif+JP:wght@200"]
 
+# Google Site Verify
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+singleDateFormat = "2/1/2006"
+indexDateFormat = "2/1/2006"
+listDateFormat = "2/1/2006"
+# Commento Comments
+# CommentoURL = "https://commento.example.com/js/commento.js"
+# Read More links for truncated summaries
+# readMore = true
+# postSectionName = "blog"
+# relatedPosts = true
+# numberOfRelatedPosts = 3
+
+reversepagetitle = true # When set to 'true', the Window Title will be reversed to 'Title | Author' instead of the default 'Author | Title'
+
+# hidesidebar = true
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/chaspy/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/chaspy/chaspy"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:take.she12@gmail.com"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-twitter"
+title = "twitter"
+url = "https://twitter.com/chaspy_"
+
+
+[[params.socialIcons]]
+icon = "fa-brands fa-facebook"
+title = "facebook"
+url = "https://www.facebook.com/takeshi.kondo.18041"
+
+
+[mermaid]
+# enable = true
+
+[menu]
+
+  [[menu.main]]
+  name = "home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 200
+  identifier = "about"
+  url = "/about/"
+
+  [[menu.main]]
+  name = "Article"
+  weight = 300
+  identifier = "artricle"
+  url = "/artricle/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 400
+  identifier = "blog"
+  url = "/blog/"
+
+  [[menu.main]]
+  name = "Contribution"
+  weight = 500
+  identifier = "contribution"
+  url = "/contribution/"
+
+  [[menu.main]]
+  name = "Slide"
+  weight = 600
+  identifier = "Slide"
+  url = "/Slide/"
+
+    [[menu.main]]
+  name = "Service"
+  weight = 600
+  identifier = "Service"
+  url = "/Service/"

@@ -4,4 +4,4 @@
 https://chaspy.me
 
 # theme
-hugo - [cocoa-eh](https://github.com/mtn/cocoa-eh-hugo-theme)
+hugo - [Hermit-V2](https://themes.gohugo.io/themes/hermit-v2/)
