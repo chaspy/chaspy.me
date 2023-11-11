@@ -53,7 +53,11 @@ localizedDates = false
 title = "Takeshi Kondo"
 author = "Takeshi Kondo"
 copyright = "Copyright © 2023 Takeshi Kondo"
-description = "Call me chaspy"
+description = """
+Senior Engineering Manager, StudySapuri K12
+
+Call me chaspy
+"""
 profilePicture = "img/chaspy.jpg"
 keywords = ""
 favicon = "favicons/"
