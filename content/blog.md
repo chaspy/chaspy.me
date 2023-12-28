@@ -9,6 +9,10 @@ draft: false
 
 ## Quipper Product Team Blog (Japanese)
 
+### 2023年
+
+- [スタディサプリ小中高の技術戦略について](https://blog.studysapuri.jp/entry/2023/12/22/080000)
+
 ### 2022年
 
 - [Engineering Manager のしごと - スタディサプリ小中高 SRE チームの場合](https://blog.studysapuri.jp/entry/2022/08/23/sre-engineering-manager)
