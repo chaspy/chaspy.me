@@ -163,9 +163,9 @@ SRE の Core Concept である SLI/SLO を組織に導入しました。
 
 ---
 
-Engineering Manager, Site Reliability at [Recruit Co., Ltd.](https://www.recruit.co.jp/) (Oct, 2021~), formaerly [Quipper](http://www.quipper.com) (Jul,2018〜).
+Senior Engineering Manager / Director at [Recruit Co., Ltd.](https://www.recruit.co.jp/) (Oct, 2021~), formaerly [Quipper](http://www.quipper.com) (Jul,2018〜).
 
-I have six years of experience as a software engineer. Of that, I have two years of experience as a Site Reliability Engineer.
+I have six years of experience as a software engineer. Of that, I have two years of experience as a Site Reliability Engineer. Most recently, I has managed a 100-person development organization as the head of the development department.
 
 I'm good at implementing the necessary technologies and processes for organizations. I recently introduced a central theme, SLI/SLO, to both Japanese and global products and promoted it to a situation where developers can handle it themselves.
 
