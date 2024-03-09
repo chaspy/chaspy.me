@@ -65,6 +65,10 @@ SRE として国内に展開する[スタディサプリ](https://studysapuri.jp
 
 加えて、スタディサプリ新中学講座の開発チームのマネジメントに従事。
 
+担当したチームの活動として以下のアウトプットもご覧ください。
+
+- [A/B テストによるプロダクトエンハンスを支援する PLG(Product Led Growth) Team のご紹介](https://blog.studysapuri.jp/entry/2023/02/19/plg)
+
 ### Engineering Manager, Site Reliability (Oct. 2021 ~ Sep. 2022)
 
 SRE として国内に展開する[スタディサプリ](https://studysapuri.jp) と海外に展開する [Quipper](https://www.quipper.com) の信頼性に関わる業務に従事。
