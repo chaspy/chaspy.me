@@ -7,11 +7,14 @@ draft: false
 [ツナワタリマイライフ](https://blog.chaspy.me)
 
 
-## Quipper Product Team Blog (Japanese)
+## StudySaprui Product Team Blog (Japanese)
+
+### 2024年
+
+- [A/B テストによるプロダクトエンハンスを支援する PLG(Product Led Growth) Team のご紹介](https://blog.studysapuri.jp/entry/2023/02/19/plg)
 
 ### 2023年
 
-- [A/B テストによるプロダクトエンハンスを支援する PLG(Product Led Growth) Team のご紹介](https://blog.studysapuri.jp/entry/2023/02/19/plg)
 - [スタディサプリ小中高の技術戦略について](https://blog.studysapuri.jp/entry/2023/12/22/080000)
 
 ### 2022年
