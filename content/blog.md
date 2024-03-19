@@ -11,6 +11,7 @@ draft: false
 
 ### 2024年
 
+- [技術戦略策定のための Fact 収集術](https://blog.studysapuri.jp/entry/2024/03/19/fact-gathering-for-tech-strategy)
 - [A/B テストによるプロダクトエンハンスを支援する PLG(Product Led Growth) Team のご紹介](https://blog.studysapuri.jp/entry/2023/02/19/plg)
 
 ### 2023年

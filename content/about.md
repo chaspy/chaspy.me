@@ -47,6 +47,7 @@ Individual Contributor として、SRE / Platform Engineering 領域の Lead を
 以下のアウトプットも参照ください。
 
 - [スタディサプリ小中高の技術戦略について](https://blog.studysapuri.jp/entry/2023/12/22/080000)
+- [技術戦略策定のための Fact 収集術](https://blog.studysapuri.jp/entry/2024/03/19/fact-gathering-for-tech-strategy)
 
 #### プロダクト開発
 
