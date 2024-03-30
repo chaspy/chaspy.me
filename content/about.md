@@ -34,11 +34,15 @@ Individual Contributor として、SRE / Platform Engineering 領域の Lead を
 
 ### Senior Engineering Manager / Director, StudySapuri K12 (Oct. 2023 ~ current)
 
-スタディサプリ小中高の BtoC 領域の部長を担当。
+スタディサプリ小中高のプロダクト開発部部長を担当。
 
 #### 組織開発
 
 100名以上のエンジニア組織・エンジニアの課題解決、採用、育成を行っています。
+
+以下のアウトプットも参照ください。
+
+- [Engineering Manager のオンボーディング](https://blog.studysapuri.jp/entry/2024/03/27/em-onboarding)
 
 #### 技術戦略
 
