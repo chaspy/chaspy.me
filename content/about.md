@@ -43,6 +43,7 @@ Individual Contributor として、SRE / Platform Engineering 領域の Lead を
 以下のアウトプットも参照ください。
 
 - [Engineering Manager のオンボーディング](https://blog.studysapuri.jp/entry/2024/03/27/em-onboarding)
+- [エンジニアブランディングチームのご紹介](https://blog.studysapuri.jp/entry/2024/04/02/engineer-branding)
 
 #### 技術戦略
 
