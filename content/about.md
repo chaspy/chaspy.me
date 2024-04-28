@@ -79,7 +79,7 @@ SRE として国内に展開する[スタディサプリ](https://studysapuri.jp
 
 SRE として国内に展開する[スタディサプリ](https://studysapuri.jp) と海外に展開する [Quipper](https://www.quipper.com) の信頼性に関わる業務に従事。
 
-- SRE Team のマネージャとして、プロダクトの信頼性と開発体験を担保するためチームのマネジメントを行いました。以下ののアウトプットも参照ください。
+- SRE Team のマネージャとして、プロダクトの信頼性と開発体験を担保するためチームのマネジメントを行いました。以下のアウトプットも参照ください。
   - [Engineering Manager のしごと - スタディサプリ小中高 SRE チームの場合](https://blog.studysapuri.jp/entry/2022/08/23/sre-engineering-manager)
   - [SRE チームを支えるふりかえりの文化](https://blog.studysapuri.jp/entry/2022/02/19/sre-retrospective-culture)
   - [6社合同 SRE 勉強会で" SRE を実現するための組織マネジメント"という題で登壇します](https://blog.studysapuri.jp/entry/2022/02/17/sre-study-session)
