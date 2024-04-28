@@ -11,6 +11,7 @@ draft: false
 
 ### 2024年
 
+- [dep-doctor による archived / not-maintained な依存ライブラリ検出の仕組み](https://blog.studysapuri.jp/entry/2024/04/25/monorepo-dep-doctor)
 - [エンジニアブランディングチームのご紹介](https://blog.studysapuri.jp/entry/2024/04/02/engineer-branding)
 - [Engineering Manager のオンボーディング](https://blog.studysapuri.jp/entry/2024/03/27/em-onboarding)
 - [技術戦略策定のための Fact 収集術](https://blog.studysapuri.jp/entry/2024/03/19/fact-gathering-for-tech-strategy)
