@@ -4,7 +4,7 @@ draft: false
 ---
 ## 2024
 
-* [Cloud Native Days Sapporo 2024](https://event.cloudnativedays.jp/cnds2024)
+* [CloudNative Days Sapporo 2024](https://event.cloudnativedays.jp/cnds2024)
 * [2023年度を数字で振り返る「技術広報LT大会」](https://smarthr.connpass.com/event/311062/)] / [エンジニアブランディングチームの KPI](https://speakerdeck.com/chaspy/kpis-of-engineer-branding-team)
 
 ## 2023
