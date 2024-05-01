@@ -4,17 +4,39 @@ draft: false
 ---
 ## 2024
 
-* [CloudNative Days Sapporo 2024](https://event.cloudnativedays.jp/cnds2024)
-* [2023年度を数字で振り返る「技術広報LT大会」](https://smarthr.connpass.com/event/311062/) / [エンジニアブランディングチームの KPI](https://speakerdeck.com/chaspy/kpis-of-engineer-branding-team)
+### [CloudNative Days Sapporo 2024](https://event.cloudnativedays.jp/cnds2024)
+
+[定量データと定性評価を用いた技術戦略の組織的実践 | CloudNative Days Summer 2024](https://event.cloudnativedays.jp/cnds2024/talks/2327)
+
+### [2023年度を数字で振り返る「技術広報LT大会」](https://smarthr.connpass.com/event/311062/)
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/7a3ab47fd4394298b12cfb3e55d76d23" title="エンジニアブランディングチームの KPI / KPI's of engineer branding team" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 
 ## 2023
 
-* [ゆる SRE 勉強会 #2](https://yuru-sre.connpass.com/event/293783/) / [「SLO Review」今やるならこうする](https://speakerdeck.com/chaspy/if-i-had-to-do-the-slo-review-again)
-* [SRE NEXT 2023](https://sre-next.dev/2023/schedule/#jp011) / [開発者とともに作る Site Reliability Engineering](https://speakerdeck.com/chaspy/sreing-with-developers)
-* [CloudNative Days Fukuoka 2023](https://event.cloudnativedays.jp/cndf2023) / [自己診断能力の獲得を目指して](https://speakerdeck.com/chaspy/toward-the-acquisition-of-self-diagnostic-skills)
-*  [【有料プランユーザー様限定×オフライン】MagicPodユーザーLT会](https://trident-qa.connpass.com/event/283709/) / [『スタディサプリ 中学講座』における E2E Test の運用と計測による改善](https://speakerdeck.com/chaspy/improved-e2e-testing-through-measurement)
-* [SLOconf Tokyo 2023](https://connpass.com/event/282120/) / [スタディサプリにおける SLI/SLO の継続的改善](https://speakerdeck.com/chaspy/slo-at-studysapuri)
-* [インシデントにどう対応してきたか？みんなで学ぶポストモーテム Lunch LT - connpass](https://findy.connpass.com/event/273197/) / [ポストモーテム運用を支える文化と技術](https://speakerdeck.com/chaspy/culture-and-technology-supporting-postmortem-operations)
+### [ゆる SRE 勉強会 #2](https://yuru-sre.connpass.com/event/293783/)
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/3df8f292553744029dcb2c985ffca905" title="「SLO Review」今やるならこうする / If I had to do the &quot;SLO Review&quot; again" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+
+### [SRE NEXT 2023](https://sre-next.dev/2023/schedule/#jp011)
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/6972fc8ee73f43648f5b36e67374aa2b" title="開発者とともに作る Site Reliability Engineering / SREing with Developers" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+
+### [CloudNative Days Fukuoka 2023](https://event.cloudnativedays.jp/cndf2023)
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/cbede6619ca44c818f9e58ff1656d918" title="自己診断能力の獲得を目指して / Toward the acquisition of self-diagnostic skills" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+
+### [【有料プランユーザー様限定×オフライン】MagicPodユーザーLT会](https://trident-qa.connpass.com/event/283709/)
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/20882c5382ce4f29a38a504dbae61677" title="『スタディサプリ 中学講座』における E2E Test の運用と計測による改善 / Improved E2E testing through measurement" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+
+### [SLOconf Tokyo 2023](https://connpass.com/event/282120/)
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/d6c685a580d44398928e47774b4a0569" title="『スタディサプリ』における SLI/SLO の継続的改善 / Continuous improvement of SLI/SLO at StudySapuri" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+
+### [インシデントにどう対応してきたか？みんなで学ぶポストモーテム Lunch LT - connpass](https://findy.connpass.com/event/273197/)
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c67f3b379e3d4443850c857c05cab6e9" title="ポストモーテム運用を支える文化と技術 / Culture and Technology Supporting Postmortem Operations" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 
 ## 2022
 
