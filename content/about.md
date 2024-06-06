@@ -32,7 +32,7 @@ Individual Contributor として、SRE / Platform Engineering 領域の Lead を
 
 ## [株式会社リクルート](https://www.recruit.co.jp/) (Oct. 2022 ~ Present)
 
-### Senior Engineering Manager / Director, StudySapuri K12 (Oct. 2023 ~ current)
+### Director of Engineering / Director, StudySapuri K12 (Oct. 2023 ~ current)
 
 スタディサプリ小中高のプロダクト開発部部長を担当。
 
