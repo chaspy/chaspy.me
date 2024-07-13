@@ -11,6 +11,7 @@ draft: false
 
 ### 2024年
 
+- [スタディサプリ小中高における AI 活用の現在](https://blog.studysapuri.jp/entry/2024/06/24/k12-ai-productivity)
 - [dep-doctor による archived / not-maintained な依存ライブラリ検出の仕組み](https://blog.studysapuri.jp/entry/2024/04/25/monorepo-dep-doctor)
 - [エンジニアブランディングチームのご紹介](https://blog.studysapuri.jp/entry/2024/04/02/engineer-branding)
 - [Engineering Manager のオンボーディング](https://blog.studysapuri.jp/entry/2024/03/27/em-onboarding)

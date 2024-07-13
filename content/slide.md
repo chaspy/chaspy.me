@@ -4,9 +4,17 @@ draft: false
 ---
 ## 2024
 
+### [SRE NEXT 2024](https://sre-next.dev/2024/)
+
+Upcoming
+
+### [現場で実践！RAG活用術 Lunch LT ― 運用して分かった"つらみ"とその対策](https://findy.connpass.com/event/323129/)
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/05c0fe4445b64ca0997afc2c6a424849" title="RAGの簡易評価によるフィードバックサイクル実践 / Feedback cycle practice through simplified assessment of RAGs" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+
 ### [CloudNative Days Sapporo 2024](https://event.cloudnativedays.jp/cnds2024)
 
-[定量データと定性評価を用いた技術戦略の組織的実践 | CloudNative Days Summer 2024](https://event.cloudnativedays.jp/cnds2024/talks/2327)
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/a0b61ec07fc842b8a011693079ebfb18" title="定量データと定性評価を用いた技術戦略の組織的実践 / Systematic implementation of technology strategies using quantitative data and qualitative evaluation" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 
 ### [2023年度を数字で振り返る「技術広報LT大会」](https://smarthr.connpass.com/event/311062/)
 

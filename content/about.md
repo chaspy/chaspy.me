@@ -44,6 +44,7 @@ Individual Contributor として、SRE / Platform Engineering 領域の Lead を
 
 - [Engineering Manager のオンボーディング](https://blog.studysapuri.jp/entry/2024/03/27/em-onboarding)
 - [エンジニアブランディングチームのご紹介](https://blog.studysapuri.jp/entry/2024/04/02/engineer-branding)
+- [定量データと定性評価を用いた技術戦略の組織的実践](https://speakerdeck.com/chaspy/systematic-implementation-of-technology-strategies-using-quantitative-data-and-qualitative-evaluation)
 
 #### 技術戦略
 
