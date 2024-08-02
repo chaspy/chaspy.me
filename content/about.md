@@ -30,7 +30,7 @@ Individual Contributor として、SRE / Platform Engineering 領域の Lead を
 
 # 職務経歴
 
-## [株式会社リクルート](https://www.recruit.co.jp/) (Oct. 2022 ~ Present)
+## [株式会社リクルート](https://www.recruit.co.jp/) (Oct. 2021 ~ Present)
 
 ### Director of Engineering, StudySapuri K12 (Oct. 2023 ~ current)
 
