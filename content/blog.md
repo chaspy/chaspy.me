@@ -11,6 +11,7 @@ draft: false
 
 ### 2024 年
 
+- [「現場で実践！RAG 活用術 Lunch LT ― 運用して分かった"つらみ"とその対策」で登壇してきました＆質問の回答 #RAG_Findy](https://blog.studysapuri.jp/entry/2024/07/17/feedback-cycle-practice-through-simplified-assessment-of-rags)
 - [スタディサプリ小中高における AI 活用の現在](https://blog.studysapuri.jp/entry/2024/06/24/k12-ai-productivity)
 - [dep-doctor による archived / not-maintained な依存ライブラリ検出の仕組み](https://blog.studysapuri.jp/entry/2024/04/25/monorepo-dep-doctor)
 - [エンジニアブランディングチームのご紹介](https://blog.studysapuri.jp/entry/2024/04/02/engineer-branding)
