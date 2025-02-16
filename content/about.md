@@ -67,8 +67,8 @@ English follows Japanese.
 
 - **技術戦略：**  
   - Frontend / Backend / Platform の技術戦略を事業戦略に沿って策定・実行  
-  - 参考：[スタディサプリ小中高の技術戦略について](https://blog.studysapuri.jp/entry/2023/12/22/080000)  
-  - 参考：[技術戦略策定のための Fact 収集術](https://blog.studysapuri.jp/entry/2024/03/19/fact-gathering-for-tech-strategy)
+  - 詳細：[スタディサプリ小中高の技術戦略について](https://blog.studysapuri.jp/entry/2023/12/22/080000)  
+  - 詳細：[技術戦略策定のための Fact 収集術](https://blog.studysapuri.jp/entry/2024/03/19/fact-gathering-for-tech-strategy)
 
 - **プロダクト開発：**  
   - プロダクトロードマップの達成に責任を持つ  
@@ -85,8 +85,7 @@ English follows Japanese.
 - **業務内容：**  
   - 国内（スタディサプリ）および海外（Quipper）のサービス信頼性向上を担当  
   - スタディサプリ新中学講座の開発チームのマネジメントを実施  
-- **参考：**  
-  - [A/B テストによるプロダクトエンハンスを支援する PLG Team のご紹介](https://blog.studysapuri.jp/entry/2023/02/19/plg)
+  - 詳細: [A/B テストによるプロダクトエンハンスを支援する PLG Team のご紹介](https://blog.studysapuri.jp/entry/2023/02/19/plg)
 
 ---
 
@@ -110,17 +109,17 @@ English follows Japanese.
 - **主な取り組み：**  
   - **Alert Policy 再定義：**  
     - 全166件のアラートを見直し、Sevirity 定義の策定  
-    - 詳細：[Alerting Strategy for Self-Contained Team](https://speakerdeck.com/chaspy/alerting-strategy-for-self-contained-team)
+      - 詳細：[Alerting Strategy for Self-Contained Team](https://speakerdeck.com/chaspy/alerting-strategy-for-self-contained-team)
   - **Progressive Delivery の実現：**  
     - Argo Rollouts を用いた Canary Release の導入
   - **Platform 移行：**  
     - Self-Hosted Kubernetes Cluster から Amazon EKS への移行  
-    - 詳細：[Self-Hosted Cluster から EKS への移行と Platform の Production Readiness](https://quipper.hatenablog.com/entry/2020/08/11/migration-to-eks)  
+      - 詳細：[Self-Hosted Cluster から EKS への移行と Platform の Production Readiness](https://quipper.hatenablog.com/entry/2020/08/11/migration-to-eks)  
     - ALB Weighted Target Groups を利用した Canary Switching の実現  
       - 詳細：[ALB Weighted Target Groups による EKS Cluster の Canary Switching](https://quipper.hatenablog.com/entry/2020/10/07/eks-canary-switching)
   - **Scheduled Scaling：**  
     - Kubernetes HPA External Metrics を利用し、「定期テスト」時のアクセス急増に対応  
-    - 詳細：[Kubernetes HPA External Metrics を利用した Scheduled-Scaling](https://blog.studysapuri.jp/entry/2020/11/30/scheduled-scaling-with-hpa)  
+      - 詳細：[Kubernetes HPA External Metrics を利用した Scheduled-Scaling](https://blog.studysapuri.jp/entry/2020/11/30/scheduled-scaling-with-hpa)  
     - 登壇資料も多数あり  
       - [想定外の負荷を乗り切ったオンライン教育サービスの裏側](https://speakerdeck.com/chaspy/how-we-overcame-the-covid-19-crisis)  
       - [HPA autoscaling/v2beta2 の機能解説と Datadog 利用事例](https://speakerdeck.com/chaspy/v2beta2-and-examples-of-using-hpa-external-metrics-with-datadog)
@@ -132,10 +131,10 @@ English follows Japanese.
 - **業務内容：**  
   - Monolith から Microservice Architecture への移行後の Production Readiness プロセス構築  
     - サービスオーナーの定義、Design Doc Review、Production Readiness Checklist の整備  
-    - 詳細：[みんなでつくる Production Readiness](https://quipper.hatenablog.com/entry/2020/01/30/production-readiness-with-all)
+      - 詳細：[みんなでつくる Production Readiness](https://quipper.hatenablog.com/entry/2020/01/30/production-readiness-with-all)
   - **SLI/SLO 導入：**  
     - 全プロダクトチームに対して SLI/SLO の計測・定義のカルチャーを確立  
-    - 詳細：[SRE NEXT 2020 での登壇](https://quipper.hatenablog.com/entry/2020/01/30/slo-review)
+      - 詳細：[SRE NEXT 2020 での登壇](https://quipper.hatenablog.com/entry/2020/01/30/slo-review)
   - **その他の貢献：**  
     - Envoy proxy 導入による Circuit Breaker 改善  
     - Kubernetes、Terraform、Ansible などを用いた Cloud Infrastructure の管理
@@ -267,18 +266,20 @@ English follows Japanese.
 - **Key Achievements:**  
   - **Alert Policy Redefinition:**  
     - Reviewed 166 alerts, defined severity levels, and implemented an effective alerting strategy.  
-    - Details: [Alerting Strategy for Self-Contained Team](https://speakerdeck.com/chaspy/alerting-strategy-for-self-contained-team)
+      - Details: [Alerting Strategy for Self-Contained Team](https://speakerdeck.com/chaspy/alerting-strategy-for-self-contained-team)
   - **Progressive Delivery:**  
     - Implemented Canary Release using Argo Rollouts.
   - **Platform Migration:**  
     - Migrated from a self-hosted Kubernetes cluster to Amazon EKS.  
-    - Details: [Migration to EKS and Production Readiness](https://quipper.hatenablog.com/entry/2020/08/11/migration-to-eks)  
+      - Details: [Migration to EKS and Production Readiness](https://quipper.hatenablog.com/entry/2020/08/11/migration-to-eks)  
     - Implemented Canary Switching using ALB Weighted Target Groups.  
       - Details: [ALB Weighted Target Groups for EKS](https://quipper.hatenablog.com/entry/2020/10/07/eks-canary-switching)
   - **Scheduled Scaling:**  
     - Utilized Kubernetes HPA External Metrics to address high traffic during events.  
-    - Details: [Scheduled Scaling with HPA](https://blog.studysapuri.jp/entry/2020/11/30/scheduled-scaling-with-hpa)  
+      - Details: [Scheduled Scaling with HPA](https://blog.studysapuri.jp/entry/2020/11/30/scheduled-scaling-with-hpa)  
     - Presented related findings at conferences.
+      - [How we overcome the covid-19 crisis](https://speakerdeck.com/chaspy/how-we-overcame-the-covid-19-crisis)  
+      - [HPA v2beta2 and example of using HPA external metrics with Datadog](https://speakerdeck.com/chaspy/v2beta2-and-examples-of-using-hpa-external-metrics-with-datadog)
 
 ---
 
