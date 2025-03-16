@@ -54,7 +54,13 @@ English follows Japanese.
 
 ## [株式会社リクルート](https://www.recruit.co.jp/) (Oct. 2021 ~ Present)
 
-### Director of Engineering, StudySapuri K12 (Oct. 2023 ~ Present)
+### Director of Engineering, StudySapuri K12 & English (Apl. 2025 ~ Present)
+
+スタディサプリ小学・中学・高校・大学受験講座に加え、English（社会人向け）プロダクトも担当
+
+生成AI のプロダクト開発への導入や他組織の技術支援を担当。
+
+### Director of Engineering, StudySapuri K12 (Oct. 2023 ~ Mar. 2025)
 
 **主な業務：**
 
